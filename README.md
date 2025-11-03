@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jiteshkumarkumar" alt="jiteshkumarkumar" /></a> </p>
 
-- 🌱 I’m currently learning **Full Python Programming certiciate cource from TuteDude & Completed full Data Analysis & data science course from 360 Degree Data Science TrainingYa (Formerly CTC Institute)**
+- 🌱 I’m currently learning **Full Python Programming certificate cource from TuteDude & Completed full Data Analysis & data science course from 360 Degree Data Science TrainingYa (Formerly CTC Institute)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jiteshkumarkumar](https://github.com/jiteshkumarkumar)
 
